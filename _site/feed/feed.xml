@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>YZ</title>
+	<subtitle>I am writing about my experiences as a naval navel-gazer.</subtitle>
+	
+	<link href="https://myurl.com/feed/feed.xml" rel="self"/>
+	<link href="https://myurl.com/"/>
+	<updated>2018-05-02T20:00:00-04:00</updated>
+	<id>https://myurl.com/</id>
+	<author>
+		<name>Your Name Here</name>
+		<email>youremailaddress@example.com</email>
+	</author>
+	
+	<entry>
+		<title>Test</title>
+		<link href="https://myurl.com/posts/test!/"/>
+		<updated>2018-05-02T20:00:00-04:00</updated>
+		<id>https://myurl.com/posts/test!/</id>
+		<content type="html">&lt;p&gt;test!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://myurl.com/img/w3images/me@beach.jpg&quot; alt=&quot;me&quot; title=&quot;me@beach&quot;&gt;&lt;/p&gt;
+</content>
+	</entry>
+</feed>
